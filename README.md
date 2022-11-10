@@ -1,3 +1,3 @@
 # pdxrug
 
-A quarto website and slides prepared for the PDX R Users Group meeting on November 11, 2022
+A quarto website and slides prepared for the Portland R Users Group `@pdxrlang` meeting on November 11, 2022
