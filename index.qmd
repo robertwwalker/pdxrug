@@ -4,6 +4,6 @@ title: "Multiplex for PDX R Users Group"
 
 This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.
 
-A link to the presentation is [https://rww.quarto.pub/pdxrug/talk/index.html](https://rww.quarto.pub/pdxrug/talk/index.html)
+A link to the presentation is [https://robertwwalker/pdxrug-talk/index.html](https://robertwwalker/pdxrug-talk/index.html)
 
-The code for the presentation can be found on [github](https://github.com/robertwwalker/pdxrug/blob/main/talk/index.qmd). 
+The code for the presentation can be found on [github](https://github.com/robertwwalker/pdxrug-talk/blob/main/index.qmd). 

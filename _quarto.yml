@@ -9,7 +9,7 @@ website:
     creator: "@PieRatio"
   navbar:
     right:
-      - href: /talk/index.html
+      - href: https://robertwwalker.github.io/pdxrug-talk/index.html
         text: Slides
       - about.qmd
       - icon: github
