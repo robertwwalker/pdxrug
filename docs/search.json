@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Robert W. Walker, an Associate Professor of Quantitative Methods in the Atkinson Graduate School of Management at Willamette University\nMy web presence is rww.science and my github is https://github.com/robertwwalker"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Multiplex for PDX R Users Group",
+    "section": "",
+    "text": "This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.\nA link to the presentation is https://robertwwalker.github.io/xaringan/pdxrug/index.html\nThe code for the presentation can be found on github."
+  }
+]
