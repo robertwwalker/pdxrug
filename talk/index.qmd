@@ -148,3 +148,9 @@ There are many other cool features:
 - text animations
 - the `slide-tone` from `xaringanExtra`
 - zoom
+
+## Thanks
+
+To the organizers for organizing and for the invitation.
+
+And to the [pigeon, for the palette.](https://rww-science.website/post/2022-01-28-pigeons-and-palettes/)
