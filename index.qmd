@@ -8,4 +8,10 @@ A link to the presentation is [https://robertwwalker.github.io/pdxrug-talk/index
 
 The code for the presentation can be found on [github](https://github.com/robertwwalker/pdxrug-talk/blob/main/index.qmd). 
 
-The code for the website can be found on [github](https://github.com/robertwwalker/pdxrug/). 
+The code for the website can be found on [github](https://github.com/robertwwalker/pdxrug/).
+
+I have now use the combination of quarto websites and reveal.js in most of my classes.  Examples include:
+
+- [My Essex Summer School course in Time Series and Panel Data](https://essssda22-3k.netlify.app/)
+
+- [MBA Choice and Forecasting](https://rww.quarto.pub/models-of-choice-and-forecasting/)

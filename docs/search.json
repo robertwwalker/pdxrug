@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Multiplex for PDX R Users Group",
     "section": "",
-    "text": "This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.\nA link to the presentation is https://robertwwalker.github.io/pdxrug-talk/index.html\nThe code for the presentation can be found on github.\nThe code for the website can be found on github."
+    "text": "This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.\nA link to the presentation is https://robertwwalker.github.io/pdxrug-talk/index.html\nThe code for the presentation can be found on github.\nThe code for the website can be found on github.\nI have now use the combination of quarto websites and reveal.js in most of my classes. Examples include:\n\nMy Essex Summer School course in Time Series and Panel Data\nMBA Choice and Forecasting"
   }
 ]
