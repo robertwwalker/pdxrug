@@ -1,0 +1,9 @@
+---
+title: "Multiplex for PDX R Users Group"
+---
+
+This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.
+
+A link to the presentation is [https://robertwwalker.github.io/xaringan/pdxrug/index.html](https://robertwwalker.github.io/xaringan/pdxrug/index.html)
+
+The code for the presentation can be found on [github](https://github.com/robertwwalker/xaringan/blob/main/pdxrug/index.qmd). 

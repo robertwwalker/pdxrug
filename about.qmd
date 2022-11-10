@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+I am Robert W. Walker, an Associate Professor of Quantitative Methods in the [Atkinson Graduate School of Management](https://willamette.edu/mba/admission/index.html) at [Willamette University](https://willamette.edu/)
+
+My web presence is [rww.science](https://rww.science) and my github is [https://github.com/robertwwalker](https://github.com/robertwwalker)
+
+![](./img/Robert Walker-1.jpeg)
