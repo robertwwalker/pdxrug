@@ -10,7 +10,7 @@ The code for the presentation can be found on [github](https://github.com/robert
 
 The code for the website can be found on [github](https://github.com/robertwwalker/pdxrug/).
 
-I have now use the combination of quarto websites and reveal.js in most of my classes.  Examples include:
+I now use the combination of quarto websites and reveal.js in most of my classes.  Examples include:
 
 - [My Essex Summer School course in Time Series and Panel Data](https://essssda22-3k.netlify.app/)
 
