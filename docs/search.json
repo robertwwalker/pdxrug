@@ -11,6 +11,76 @@
     "href": "index.html",
     "title": "Multiplex for PDX R Users Group",
     "section": "",
-    "text": "This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.\nA link to the presentation is https://robertwwalker.github.io/xaringan/pdxrug/index.html\nThe code for the presentation can be found on github."
+    "text": "This serves as the web organizing page for a talk on quarto in education specifically focused on the multiplex feature of reveal.js.\nA link to the presentation is https://robertwwalker.github.io/pdxrug/talk/index.html\nThe code for the presentation can be found on github."
+  },
+  {
+    "objectID": "talk/index.html#tldr-the-15-characters",
+    "href": "talk/index.html#tldr-the-15-characters",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "TLDR: The 15 Characters",
+    "text": "TLDR: The 15 Characters\n\nmultiplex: true\n\n\ntechnically, 14 characters and a space"
+  },
+  {
+    "objectID": "talk/index.html#the-problems",
+    "href": "talk/index.html#the-problems",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "The Problem(s)",
+    "text": "The Problem(s)\n\nScreen shares on Zoom [and competitors] aren’t copy-pasteable.\nLatency issues and interference often require that in-person learners are in the physical but not the virtual meeting.\nUltimately, this is an equal access issue."
+  },
+  {
+    "objectID": "talk/index.html#the-solution-is-really-that-easy",
+    "href": "talk/index.html#the-solution-is-really-that-easy",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "The Solution is Really That Easy",
+    "text": "The Solution is Really That Easy\n\nmultiplex: true"
+  },
+  {
+    "objectID": "talk/index.html#how-does-it-work",
+    "href": "talk/index.html#how-does-it-work",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "How Does it Work?",
+    "text": "How Does it Work?\nTwo versions are rendered.\n\n{filename}.html A link to provide to users\n{filename}-speaker.html A link for the presenter\nThe Details"
+  },
+  {
+    "objectID": "talk/index.html#behind-the-scenes",
+    "href": "talk/index.html#behind-the-scenes",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "Behind The Scenes",
+    "text": "Behind The Scenes\n\nThey are linked together via a server provided by the Revealjs team. \nOr you can roll your own"
+  },
+  {
+    "objectID": "talk/index.html#tabsets",
+    "href": "talk/index.html#tabsets",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "tabsets",
+    "text": "tabsets\nThe interaction with multiplex and tabset doesn’t work perfectly1\n\nFragmentSlideColumnColumn-Fragment\n\n\n\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")\n\n\n\n\n\n\n\n\n\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")\n\n\n\n\n\n\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")\n\n\n\n\n\n\n\n\n\n\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")\n\n\n\n\n\n\n\n\n\nan observation, not a complaint"
+  },
+  {
+    "objectID": "talk/index.html#tabsets-output",
+    "href": "talk/index.html#tabsets-output",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "tabsets",
+    "text": "tabsets"
+  },
+  {
+    "objectID": "talk/index.html#code",
+    "href": "talk/index.html#code",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "Code",
+    "text": "Code\n\n\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")"
+  },
+  {
+    "objectID": "talk/index.html#fenced-code",
+    "href": "talk/index.html#fenced-code",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "Fenced Code",
+    "text": "Fenced Code\n\n\n```{r}\n#| output-location: column-fragment\nggplot(airquality) + aes(Temp, Ozone) + geom_point() + geom_smooth(method = \"loess\")\n```"
+  },
+  {
+    "objectID": "talk/index.html#this-only-scratches-the-surface",
+    "href": "talk/index.html#this-only-scratches-the-surface",
+    "title": "Much Love for Multiverse: How 15 Characters Removed the Dread of Hybrid Instruction",
+    "section": "This only scratches the surface",
+    "text": "This only scratches the surface\nThere are many other cool features:\n\nthe chalkboard\nthe canvas\ntext animations\nthe slide-tone from xaringanExtra\nzoom\n\n\n\n\nPDX R Users Group Multiverse Talk 2022-11-10"
   }
 ]
